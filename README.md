@@ -1,6 +1,10 @@
 # hello-world
 My first repository
-1. I'm learning how to create a repository and manage new versions/updates
-2. I expect to learn how to write code
-3. Update code
-4. And merge new code with old code
+readme-edits
+**I'm in the beginning stages of learning how to use GitHub and code GO**
+I expect to know how to do the following when I'm done...
+1. Create and edit a repository
+2. Create and edit new branches in a repository
+3. Write/create new GO code
+4. Merge new branches (code changes and updates) with the main branch of my repository
+main
