@@ -1,6 +1,5 @@
 # hello-world
 My first repository
-readme-edits
 **I'm in the beginning stages of learning how to use GitHub and code GO**
 I expect to know how to do the following when I'm done...
 1. Create and edit a repository
